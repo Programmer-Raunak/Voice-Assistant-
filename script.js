@@ -64,7 +64,7 @@ function wishMe() {
 
 
 
-window.addEventListener('load', ()=>{
+window.addEventListener('DOMContentLoaded', ()=>{
 
     speak("Activating Olivia Assistant");
     speak("Going online");
