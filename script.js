@@ -67,11 +67,8 @@ function wishMe() {
 window.addEventListener('load', ()=>{
 
     speak("Activating Olivia Assistant");
-
     speak("Going online");
-
     wishMe();
-
 })
 
 
